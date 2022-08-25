@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eric Maciel, um jovem apaixonado por tecnologia!
+## Oii! Eu sou o Eric Maciel, um jovem apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/EricSM99">
   
